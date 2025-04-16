@@ -1,4 +1,4 @@
-# Disabling-Drones-Disruption-and-Forensic-Data-Analysis
+# Disabling Drones Disruption and Forensic Data Analysis
 
 This repository contains my research and scripts developed to control the Parrot AR Drone 2.0 using NodeJS and to perform automated Wi-Fi deauthentication attacks for drone disruption. The repository is part of a study focused on analyzing and documenting the forensic evidence left behind by such attacks.
 
